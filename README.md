@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**CGP05/CGP05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGP05&theme=transparent" alt="Profile Details">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CGP05&theme=transparent" alt="Top Languages by Repo">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGP05&theme=transparent" alt="Stats">
+    </td>
+  </tr>
+</table>
