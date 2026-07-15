@@ -1,15 +1,18 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGP05&theme=transparent" alt="Profile Details">
+      <!-- Overall Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=CGP05&show_icons=true&theme=transparent" alt="Stats Details">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CGP05&theme=transparent" alt="Top Languages by Repo">
+      <!-- Most Used Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGP05&layout=compact&theme=transparent" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGP05&theme=transparent" alt="Stats">
+      <!-- Optional: GitHub Trophy or Streak Card -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CGP05&theme=transparent" alt="GitHub Streak">
     </td>
   </tr>
 </table>
