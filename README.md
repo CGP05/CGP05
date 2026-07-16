@@ -1,15 +1,14 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CGP05&theme=transparent" alt="Profile Details">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top Languages by Repo">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CGP05&theme=transparent" alt="Top Languages by Repo">
     </td>
     <td>
-      <img src="./profile-summary-card-output/transparent/2-stats.svg" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CGP05&theme=transparent" alt="Stats">
     </td>
   </tr>
-</table>
